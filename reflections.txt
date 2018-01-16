@@ -1,9 +1,11 @@
-You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
-  * What new skills have you learned?
-  * What has been easy?
-  * What has been difficult?
-  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+What new skills have you learned?
+As far as the lessons go, I didn’t learn too much yet. I never used superscript tag before but I have been studying hardcore for the past 9 months so I knew a good amount of what was reviewed. What was helpful was joining the community and using Slack for the first time. I also had to work with CodePen again and figure out how to create a pen and how to post my project.
 
----
+What has been easy?
+The lessons have been pretty easy thus far but I am sure they will get harder since I am only on Lesson 4.
 
-Your response goes here!
+What has been difficult?
+Trying to find time to go through the lessons and keep up with all the posts on Slack and the forum. Trying to figure out a good balance between the two but I find myself on Slack a lot talking to fellow coders which I am loving.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+The first few lessons pushed us to research stuff that wasn't necessary taught which is an important thing to learn as a front end developer.
